@@ -34,5 +34,12 @@ KMK bisa diunduh <a href="http://www.setjen.kemenkeu.go.id/sites/default/files/d
 
 <h2>Siklus pengembangan sistem informasi</h2>
 <ol>
-  <li><b>Proses analisa kebutuhan sistem informasi.</b><ins> Merupakan tanggung jawab dari pemilik proses bisnis.</ins></li>
+  <li><b>Proses analisa kebutuhan sistem informasi.</b> <ins>Merupakan tanggung jawab dari pemilik proses bisnis.</ins>Proses ini merupakan proses mengumpulkan dan menganalisa spesifikasi kebutuhan bisnis dan sistem informasi secara rinci.
+  <br>
+  <br>
+  Output dari proses ini antara lain:
+  <ul>
+    <li><a href="/Doku/Dok 0. 20151106 Dokumen Kebutuhan Pengguna.docx" target="_blank"> Dok 0. Dokumen kebutuhan pengguna.</a></li>
+  </ul>
+  </li>
 </ol>
