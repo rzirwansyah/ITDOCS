@@ -34,13 +34,21 @@ KMK bisa diunduh <a href="http://www.setjen.kemenkeu.go.id/sites/default/files/d
 
 <h2>Siklus pengembangan sistem informasi</h2>
 <ol>
-  <li><b>Proses analisa kebutuhan sistem informasi.</b> <ins>Merupakan tanggung jawab dari pemilik proses bisnis.</ins>Proses ini merupakan proses mengumpulkan dan menganalisa spesifikasi kebutuhan bisnis dan sistem informasi secara rinci.
+  <li><b>Proses analisa kebutuhan sistem informasi.</b> <ins>Merupakan tanggung jawab dari pemilik proses bisnis.</ins> Merupakan proses mengumpulkan dan menganalisa spesifikasi kebutuhan bisnis dan sistem informasi secara rinci.
   <br>
   Output dari proses ini antara lain:
   <ul>
-    <li><a href="/Doku/Dok 0. 20151106 Dokumen Kebutuhan Pengguna.docx" target="_blank"> Dok 0. Dokumen kebutuhan pengguna.</a></li>
+    <li><a href="/Doku/Dok 0. 20151106 Dokumen Kebutuhan Pengguna.docx" target="_blank"> Dok 0. Dokumen Kebutuhan Pengguna.</a></li>
     <li><a href="/Doku/Dok 1. 20151106 Dokumen Analisis dan Spesifikasi Kebutuhan.docx" target="_blank"> Dok 1. Dokumen Analisis dan Spesifikasi Kebutuhan.</a></li>
-    <li><a href="/Doku/Dok 2. 20151106 Dokumen Perubahan Analisis dan Spesifikasi Kebutuhan.docx" target="_blank"> Dok 2. Dokumen Perubaha Analisis dan Spesifikasi Kebutuhan.</a></li>
+    <li><a href="/Doku/Dok 2. 20151106 Dokumen Perubahan Analisis dan Spesifikasi Kebutuhan.docx" target="_blank"> Dok 2. Dokumen Perubahan Analisis dan Spesifikasi Kebutuhan.</a></li>
+  </ul>
+  </li>
+  <li><b>Proses perancangan sistem informasi.</b> <ins>Merupakan tanggung jawab dari pengembang sistem informasi.</ins> Merupakan proses penyusunan rancangan sistem informasi berdasarkan analisa kebutuhan sistem informasi dan hasilnya akan digunakan sebagai acuan dalam mengembangkan sistem informasi tersebut.
+  <br>
+  Output dari proses ini antara lain:
+  <ul>
+  <li><a href="/Doku/Dok 3. 20151106 Dokumen Rancangan Tingkat Tinggi.docx" target="_blank"> Dok 3. Dokumen Rancangan Tingkat Tinggi.</a></li>
+  <li><a href="/Doku/Dok 4. 20151106 Dokumen Rancangan Rinci.docx" target="_blank"> Dok 4. Dokumen Rancangan Rinci.</a></li>
   </ul>
   </li>
 </ol>
