@@ -61,4 +61,14 @@ KMK bisa diunduh <a href="http://www.setjen.kemenkeu.go.id/sites/default/files/d
   <li><a href="/Doku/Dok 7.0 20151106 Formulir Permintaan Pengendalian Mutu Aplikasi.docx" target="_blank"> Dok 7.0. Formulir Permintaan Pengendalian Mutu Aplikasi.</a></li>
   </ul>
   </li>
+  <li><b>Proses pengujian sistem informasi.</b> <ins>Merupakan tanggung jawab dari tim <i>Quality Assurance</i>.</ins> Proses yang dilaksanakan untuk menguji sistem informasi yang dikembangkan sesuai dengan rencana dan skenario pengujian.
+  <br>
+  Output dari proses ini antara lain:
+  <ul>
+  <li><a href="/Doku/Dok 7.1. 20151106 Dokumen Pengendalian Mutu.docx" target="_blank"> Dok 7.1. Dokumen Pengendalian Mutu.</a></li>
+  <li><a href="/Doku/Dok 8. 20151106 Dokumen Hasil Pengujian oleh Pengguna.docx" target="_blank"> Dok 8. Dokumen Hasil Pengujian oleh Pengguna.</a></li>
+  <li><a href="/Doku/Dok 8.1 20151106 Form Pengujian oleh Pengguna.docx" target="_blank"> Dok 8.1. Form Pengujian oleh Pengguna.</a></li>
+  <li><a href="/Doku/Dok 9. 20151106 Dokumen Analisis Hasil Pengujian.docx" target="_blank"> Dok 9. Dokumen Analisis Hasil Pengujian.</a></li>
+  </ul>
+  </li>
 </ol>
