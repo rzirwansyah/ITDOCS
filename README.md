@@ -27,7 +27,7 @@ KMK bisa diunduh <a href="http://www.setjen.kemenkeu.go.id/sites/default/files/d
 <h2>Pihak-pihak terkait proses bisnis KMK No 351/KMK.01/2011</h2>
 <ol>
   <li><b>Pemilik proses bisnis.</b> Pihak yang memiliki kebutuhan akan sistem Informasi untuk mendukung jalannya proses bisnis.</li>
-  <li><b>Pengembang sistem informasi.</b> Pihak yang melakukan tugas merancang dan mengembangkan sistem informasi.</li>
+  <li><b>Pengembang sistem informasi.</b> Pihak yang melakukan tugas merancang, mengembangkan, melakukan <i>Quality Control</i>, dan dukungan teknis pada sistem informasi tersebut.</li>
   <li><b>Tim <i>Quality Assurance.</i></b> Pihak yang melakukan pengendalian mutu atas sistem informasi yang dikembangkan. Anggota tim <i>Quality Assurance</i> tidak boleh merangkap sebagai anggota tim pengembang sistem informasi.</li>
   <li><b>Pengguna.</b> Pihak yang memiliki hak akses dan penggunaan atas sistem informasi tersebut.</li>
 </ol>
@@ -43,7 +43,7 @@ KMK bisa diunduh <a href="http://www.setjen.kemenkeu.go.id/sites/default/files/d
     <li><a href="/Doku/Dok 2. 20151106 Dokumen Perubahan Analisis dan Spesifikasi Kebutuhan.docx" target="_blank"> Dok 2. Dokumen Perubahan Analisis dan Spesifikasi Kebutuhan.</a></li>
   </ul>
   </li>
-  <li><b>Proses perancangan sistem informasi.</b> <ins>Merupakan tanggung jawab dari pengembang sistem informasi.</ins> Proses penyusunan rancangan sistem informasi berdasarkan analisa kebutuhan sistem informasi dan hasilnya akan digunakan sebagai acuan dalam mengembangkan sistem informasi tersebut.
+  <li><b>Proses perancangan sistem informasi.</b> <ins>Merupakan tanggung jawab dari pengembang sistem informasi (perancang).</ins> Proses penyusunan rancangan sistem informasi berdasarkan analisa kebutuhan sistem informasi dan hasilnya akan digunakan sebagai acuan dalam mengembangkan sistem informasi tersebut.
   <br>
   Output dari proses ini antara lain:
   <ul>
@@ -51,7 +51,7 @@ KMK bisa diunduh <a href="http://www.setjen.kemenkeu.go.id/sites/default/files/d
   <li><a href="/Doku/Dok 4. 20151106 Dokumen Rancangan Rinci.docx" target="_blank"> Dok 4. Dokumen Rancangan Rinci.</a></li>
   </ul>
   </li>
-  <li><b>Proses pengembangan sistem informasi.</b> <ins>Merupakan tanggung jawab dari pengembang sistem informasi.</ins> Proses yang dilaksanakan untuk membangun sistem informasi sesuai dengan kebutuhan berdasarkan rancangan sistem informasi.
+  <li><b>Proses pengembangan sistem informasi.</b> <ins>Merupakan tanggung jawab dari pengembang sistem informasi (pengembang).</ins> Proses yang dilaksanakan untuk membangun sistem informasi sesuai dengan kebutuhan berdasarkan rancangan sistem informasi.
   <br>
   Output dari proses ini antara lain:
   <ul>
@@ -59,6 +59,16 @@ KMK bisa diunduh <a href="http://www.setjen.kemenkeu.go.id/sites/default/files/d
   <li><a href="/Doku/Dok 6. 20151106 Formulir Permintaan Perubahan dan Persetujuan.docx" target="_blank"> Dok 6. Formulir Permintaan Perubahan dan Persetujuan.</a></li>
   <li><a href="/Doku/Dok 7. 20151106 Dokumen Rencana dan Skenario Pengujian.docx" target="_blank"> Dok 7. Dokumen Rencana dan Skenario Pengujian.</a></li>
   <li><a href="/Doku/Dok 7.0 20151106 Formulir Permintaan Pengendalian Mutu Aplikasi.docx" target="_blank"> Dok 7.0. Formulir Permintaan Pengendalian Mutu Aplikasi.</a></li>
+  </ul>
+  </li>
+  <li><b>Proses pengujian sistem informasi.</b> <ins>Merupakan tanggung jawab dari pengembang sistem informasi (<i>Quality Control</i>).</ins> Proses yang dilaksanakan untuk menguji sistem informasi yang dikembangkan sesuai dengan rencana dan skenario pengujian.
+  <br>
+  Output dari proses ini antara lain:
+  <ul>
+  <li><a href="/Doku/Dok 7.1. 20151106 Dokumen Pengendalian Mutu.docx" target="_blank"> Dok 7.1. Dokumen Pengendalian Mutu.</a></li>
+  <li><a href="/Doku/Dok 8. 20151106 Dokumen Hasil Pengujian oleh Pengguna.docx" target="_blank"> Dok 8. Dokumen Hasil Pengujian oleh Pengguna.</a></li>
+  <li><a href="/Doku/Dok 8.1 20151106 Form Pengujian oleh Pengguna.docx" target="_blank"> Dok 8.1. Form Pengujian oleh Pengguna.</a></li>
+  <li><a href="/Doku/Dok 9. 20151106 Dokumen Analisis Hasil Pengujian.docx" target="_blank"> Dok 9. Dokumen Analisis Hasil Pengujian.</a></li>
   </ul>
   </li>
   <li><b>Proses pengujian sistem informasi.</b> <ins>Merupakan tanggung jawab dari tim <i>Quality Assurance</i>.</ins> Proses yang dilaksanakan untuk menguji sistem informasi yang dikembangkan sesuai dengan rencana dan skenario pengujian.
