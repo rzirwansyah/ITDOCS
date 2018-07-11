@@ -71,7 +71,7 @@ KMK bisa diunduh <a href="http://www.setjen.kemenkeu.go.id/sites/default/files/d
   <li><a href="/Doku/Dok 9. 20151106 Dokumen Analisis Hasil Pengujian.docx" target="_blank"> Dok 9. Dokumen Analisis Hasil Pengujian.</a></li>
   </ul>
   </li>
-  <li><b>Proses impelementasi sistem informasi.</b> <ins>Merupakan tanggung jawab dari pengembang sistem informasi (dukungan teknis).</ins> Proses yang dilaksanakan untuk penerapan sistem informasi yang telah dikembangkan pada lingkungan operasional.
+  <li><b>Proses implementasi sistem informasi.</b> <ins>Merupakan tanggung jawab dari pengembang sistem informasi (dukungan teknis).</ins> Proses yang dilaksanakan untuk penerapan sistem informasi yang telah dikembangkan pada lingkungan operasional.
   <br>
   Output dari proses ini antara lain:
   <ul>
@@ -81,7 +81,7 @@ KMK bisa diunduh <a href="http://www.setjen.kemenkeu.go.id/sites/default/files/d
   <li><a href="/Doku/Dok 13. 20151106 BAST SI.docx" target="_blank"> Dok 13. BAST SI.</a></li>
   </ul>
   </li>
-  <li><b>Proses tinjauan pasca impelementasi sistem informasi.</b> <ins>Merupakan tanggung jawab dari pemilik proses bisnis.</ins> Proses yang dilaksanakan untuk melakukan evaluasi atas proses keseluruhan dari pengembangan sistem informasi .
+  <li><b>Proses tinjauan pasca implementasi sistem informasi.</b> <ins>Merupakan tanggung jawab dari pemilik proses bisnis.</ins> Proses yang dilaksanakan untuk melakukan evaluasi atas proses keseluruhan dari pengembangan sistem informasi .
   <br>
   Output dari proses ini antara lain:
   <ul>
