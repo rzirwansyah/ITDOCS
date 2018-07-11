@@ -26,5 +26,8 @@ KMK bisa diunduh <a href="http://www.setjen.kemenkeu.go.id/sites/default/files/d
 
 <h2>Pihak terkait proses bisnis KMK No 351/KMK.01/2011</h2>
 <ol>
-  <li><b>Pemilik proses bisnis.</b> </li>
+  <li><b>Pemilik proses bisnis.</b> Pihak yang memiliki kebutuhan akan sistem Informasi untuk mendukung jalannya proses bisnis.</li>
+  <li><b>Pengembang sistem informasi</b> Pihak yang melakukan tugas menganalisa dan mengembangkan sistem informasi.</li>
+  <li><b>Tim <i>Quality Assurance</i></b> Pihak yang melakukan pengendalian mutu atas sistem informasi yang dikembangkan. Anggota tim <i>Quality Assurance</i> tidak boleh merangkap sebagai anggota tim pengembang sistem informasi.</li>
+  <li><b>Pengguna</b> Pihak yang memiliki hak akses dan penggunaan atas sistem informasi tersebut.</li>
 </ol>
