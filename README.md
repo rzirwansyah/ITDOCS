@@ -34,7 +34,7 @@ KMK bisa diunduh <a href="http://www.setjen.kemenkeu.go.id/sites/default/files/d
 
 <h2>Siklus pengembangan sistem informasi</h2>
 <ol>
-  <li><b>Proses analisa kebutuhan sistem informasi.</b> <ins>Merupakan tanggung jawab dari pemilik proses bisnis.</ins> Merupakan proses mengumpulkan dan menganalisa spesifikasi kebutuhan bisnis dan sistem informasi secara rinci.
+  <li><b>Proses analisa kebutuhan sistem informasi.</b> <ins>Merupakan tanggung jawab dari pemilik proses bisnis.</ins> Proses mengumpulkan dan menganalisa spesifikasi kebutuhan bisnis dan sistem informasi secara rinci.
   <br>
   Output dari proses ini antara lain:
   <ul>
@@ -43,12 +43,22 @@ KMK bisa diunduh <a href="http://www.setjen.kemenkeu.go.id/sites/default/files/d
     <li><a href="/Doku/Dok 2. 20151106 Dokumen Perubahan Analisis dan Spesifikasi Kebutuhan.docx" target="_blank"> Dok 2. Dokumen Perubahan Analisis dan Spesifikasi Kebutuhan.</a></li>
   </ul>
   </li>
-  <li><b>Proses perancangan sistem informasi.</b> <ins>Merupakan tanggung jawab dari pengembang sistem informasi.</ins> Merupakan proses penyusunan rancangan sistem informasi berdasarkan analisa kebutuhan sistem informasi dan hasilnya akan digunakan sebagai acuan dalam mengembangkan sistem informasi tersebut.
+  <li><b>Proses perancangan sistem informasi.</b> <ins>Merupakan tanggung jawab dari pengembang sistem informasi.</ins> Proses penyusunan rancangan sistem informasi berdasarkan analisa kebutuhan sistem informasi dan hasilnya akan digunakan sebagai acuan dalam mengembangkan sistem informasi tersebut.
   <br>
   Output dari proses ini antara lain:
   <ul>
   <li><a href="/Doku/Dok 3. 20151106 Dokumen Rancangan Tingkat Tinggi.docx" target="_blank"> Dok 3. Dokumen Rancangan Tingkat Tinggi.</a></li>
   <li><a href="/Doku/Dok 4. 20151106 Dokumen Rancangan Rinci.docx" target="_blank"> Dok 4. Dokumen Rancangan Rinci.</a></li>
+  </ul>
+  </li>
+  <li><b>Proses pengembangan sistem informasi.</b> <ins>Merupakan tanggung jawab dari pengembang sistem informasi.</ins> Proses yang dilaksanakan untuk membangun sistem informasi sesuai dengan kebutuhan berdasarkan rancangan sistem informasi.
+  <br>
+  Output dari proses ini antara lain:
+  <ul>
+  <li><a href="/Doku/Dok 5. 20151106 Dokumen Pengembangan Sistem Informasi.docx" target="_blank"> Dok 5. Dokumen Pengembangan Sistem Informasi.</a></li>
+  <li><a href="/Doku/Dok 6. 20151106 Formulir Permintaan Perubahan dan Persetujuan.docx" target="_blank"> Dok 6. Formulir Permintaan Perubahan dan Persetujuan.</a></li>
+  <li><a href="/Doku/Dok 7. 20151106 Dokumen Rencana dan Skenario Pengujian.docx" target="_blank"> Dok 7. Dokumen Rencana dan Skenario Pengujian.</a></li>
+  <li><a href="/Doku/Dok 7.0 20151106 Formulir Permintaan Pengendalian Mutu Aplikasi.docx" target="_blank"> Dok 7.0. Formulir Permintaan Pengendalian Mutu Aplikasi.</a></li>
   </ul>
   </li>
 </ol>
