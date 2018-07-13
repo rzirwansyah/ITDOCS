@@ -108,6 +108,6 @@ Pemilik proses bisnis melakukan inisiasi berupa perubahan proses bisnis yang bis
 <li>Format laporan dari proses bisnis</li>
 <li>Input dan output dari proses bisnis</li>
 </ul>
-<br>Hasil kajian tersebut dituangkan ke dalam dokumen 0 yang kemudian akan diperiksa dan ditandatangani oleh minimal eselon III dari instansi pemilik proses bisnis.
+<br>Hasil kajian tersebut dituangkan ke dalam <b>dokumen 0</b> yang kemudian akan diperiksa dan ditandatangani oleh minimal eselon III dari instansi pemilik proses bisnis.
 </li>
 </ol>
