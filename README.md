@@ -93,21 +93,15 @@ KMK bisa diunduh <a href="http://www.setjen.kemenkeu.go.id/sites/default/files/d
 
 <h2>Diagram keseluruhan proses bisnis </h2>
 <img src="/Image/rancangan.jpg" alt="diagram probis">
-<h3>keterangan</h3>
+<h3>Keterangan</h3>
 <p> Penjelasan proses bisnis KMK 351 antara lain:
 <ol>
 <li>
-Pemilik proses bisnis melakukan inisiasi berupa perubahan proses bisnis yang bisa difasilitasi oleh sistem informasi (SI). Proses bisnis ini terlebih dahulu dianalisa dan dikaji oleh pemilik proses bisnis mengenai : 
-<ul>
-<li>Latar belakang/landasan hukum</li>
-<li>Kebijakan</li>
-<li>Konsep</li>
-<li>Penggunanya</li>
-<li>Kebutuhan fungsional</li>
-<li>Kebutuhan teknis</li>
-<li>Format laporan dari proses bisnis</li>
-<li>Input dan output dari proses bisnis</li>
-</ul>
-<br>Hasil kajian tersebut dituangkan ke dalam <b>dokumen 0</b> yang kemudian akan diperiksa dan ditandatangani oleh minimal eselon III dari instansi pemilik proses bisnis.
+Pemilik proses bisnis melakukan inisiasi berupa perubahan proses bisnis yang bisa difasilitasi oleh sistem informasi (SI). Proses bisnis ini terlebih dahulu dianalisa dan dikaji oleh pemilik proses bisnis yang dituangkan ke dalam <b>dokumen 0</b>. Dokumen tersebut kemudian akan diperiksa dan ditandatangani oleh minimal eselon III dari instansi pemilik proses bisnis.
 </li>
+  <li>
+    Setelah ditandatangani, pemilik proses bisnis menyerahkan <b>dokumen 0</b> kepada pengembang SI sebagai dasar melakukan kajian kebutuhan teknis akan SI tersebut.
+  </li>
+  <li>Pengembang SI melalui tim analis-nya, melakukan kajian kebutuhan teknis yang dituangkan ke dalam <b>dokumen 1</b>. Dokumen tersebut kemudian akan diperiksa oleh penanggung jawab pengembang SI (min eselon III) dan penanggung jawab proses bisnis (min eselon III) untuk ditandatangani.
+  </li>
 </ol>
