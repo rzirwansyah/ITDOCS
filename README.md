@@ -90,3 +90,6 @@ KMK bisa diunduh <a href="http://www.setjen.kemenkeu.go.id/sites/default/files/d
   </ul>
   </li>
 </ol>
+
+<h2>Diagram keseluruhan proses bisnis </h2>
+<img src="/Image/rancangan.jpg" alt="diagram probis">
