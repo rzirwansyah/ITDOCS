@@ -93,3 +93,21 @@ KMK bisa diunduh <a href="http://www.setjen.kemenkeu.go.id/sites/default/files/d
 
 <h2>Diagram keseluruhan proses bisnis </h2>
 <img src="/Image/rancangan.jpg" alt="diagram probis">
+<h3>keterangan</h3>
+<p> Penjelasan proses bisnis KMK 351 antara lain:
+<ol>
+<li>
+Pemilik proses bisnis melakukan inisiasi berupa perubahan proses bisnis yang bisa difasilitasi oleh sistem informasi (SI). Proses bisnis ini terlebih dahulu dianalisa dan dikaji oleh pemilik proses bisnis mengenai : 
+<ul>
+<li>Latar belakang/landasan hukum</li>
+<li>Kebijakan</li>
+<li>Konsep</li>
+<li>Penggunanya</li>
+<li>Kebutuhan fungsional</li>
+<li>Kebutuhan teknis</li>
+<li>Format laporan dari proses bisnis</li>
+<li>Input dan output dari proses bisnis</li>
+</ul>
+<br>Hasil kajian tersebut dituangkan ke dalam dokumen 0 yang kemudian akan diperiksa dan ditandatangani oleh minimal eselon III dari instansi pemilik proses bisnis.
+</li>
+</ol>
